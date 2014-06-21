@@ -1,7 +1,6 @@
-BMICalculator | Nick Shopov
-=============
+## BMICalculator App
 
-## Task Description
+### Task Description
 
 Your Shiny Application:
 * Write a shiny application with associated supporting documentation. 
@@ -22,10 +21,17 @@ you could start from the simple prediction algorithm done in class and build a n
 packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite 
 knowledge to evaluate your application. You should emphasize a simple project given the short time frame.  
 
-## App Description | BMI Calculator
+### App Description | BMI Calculator
 
-The app features a server calculation of the human BMI based on passed arguments (height and weight). The output also includes a health status based on the reactive BMI value. The app meets the criteria:
+The app features a server calculation of the human BMI based on passed arguments (height and weight). The output also includes a health status based on the reactive BMI value calculated on the server side.
+
+### Requirements Checklist
 * Input - 2 sliders for height and weight
 * Operation in server.R - BMI calculation function and programming logic for the health status
 * Reactive output - "BMI" and "Status" are reactive output of the input slider arguments
 * Documentation - as per Discussion Forum followup, doc manual in included together with the ui controls 
+
+### Networking Contacts
+
+Author: Nick Shopov
+Contacts: www.nickshopov.com
