@@ -33,5 +33,5 @@ The app features a server calculation of the human BMI based on passed arguments
 
 ### Networking Contacts
 
-Author: Nick Shopov
-Contacts: www.nickshopov.com
+* Author: Nick Shopov
+* Contacts: www.nickshopov.com
